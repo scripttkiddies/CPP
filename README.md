@@ -1,3 +1,3 @@
 # CPP
 
-Simple coding CPP
+Simple program menu C++
